@@ -1,5 +1,8 @@
 _repo: The-Dark-Road-further-adventures-of-Cheri-Bibi_65459
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65459-h/images/dark_cover.jpg
 creator:
   author:
     agent_name: Leroux, Gaston
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gaston_Leroux
     - https://en.wikipedia.org/wiki/Gaston_Leroux
 description: 'Translation of part 1 of: Nouvelles Aventures de Chéri-Bibi.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65459#The-Dark-Road-further-adventures-of-Cheri-Bibi
 gutenberg_issued: '2021-05-28'
 gutenberg_type: Text
 identifiers:
