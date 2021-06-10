@@ -1,0 +1,30 @@
+_repo: The-Dark-Road-further-adventures-of-Cheri-Bibi_65459
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leroux, Gaston
+    birthdate: 1868
+    deathdate: 1927
+    gutenberg_agent_id: '112'
+    url: http://www.gutenberg.org/2009/agents/112
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gaston_Leroux
+    - https://en.wikipedia.org/wiki/Gaston_Leroux
+description: 'Translation of part 1 of: Nouvelles Aventures de Chéri-Bibi.'
+gutenberg_issued: '2021-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcsh 'Escaped prisoners -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Penal colonies -- French Guiana -- Fiction'
+- GITenberg
+title: 'The Dark Road: further adventures of Chéri-Bibi'
+url: http://www.gutenberg.org/ebooks/65459
